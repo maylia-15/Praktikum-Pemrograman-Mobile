@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+<style name="Theme.CafeXML" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <item name="colorPrimary">@color/dark_yellow</item>
+    <item name="android:statusBarColor">@color/white</item>
+    <item name="android:windowLightStatusBar">true</item>
+</style>
+
+<style name="RoundedImageView">
+    <item name="cornerSize">16dp</item>
+</style>
+
+</resources>
